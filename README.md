@@ -63,7 +63,7 @@ Note that the functions do not have any parameters. Instead, they should all rea
 
 The following diagram illustrates the order in which the functions should be called and how the 
 result string should be assembled from the return values step-by-step.
-  ￼
+
 Some complications:
 
 	• The toppings() function should ask for toppings repeatedly until the user types "done". The
