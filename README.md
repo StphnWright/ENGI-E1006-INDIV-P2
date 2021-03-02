@@ -36,7 +36,8 @@ Here is an example Dialog: 
      	Hello, would you like pizza or salad?"
 	User: "salad"
 	Python: "Would you like a garden salad or greek salad"
-	User: "greek" Python: "please choose a dressing: vinaigrette, ranch, blue cheese, lemon"
+	User: "greek"
+	Python: "please choose a dressing: vinaigrette, ranch, blue cheese, lemon"
 	User: "blue cheese"
 	Python: "You ordered a large pizza with mushrooms and spinach and a greek salad with blue cheese dressing. Place another order or say 'done'.               
 	Hello, would you like pizza or salad?"
