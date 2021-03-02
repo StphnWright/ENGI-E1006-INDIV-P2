@@ -25,15 +25,18 @@ should allow the user to order from an Italian restaurant by asking specific que
 
 Here is an example Dialog: 
 
-	Python prints: "Hello, would you like pizza or salad?"
-	User types: "pizza" Python: "Small, medium, or large?"
+	Python: "Hello, would you like pizza or salad?"
+	User: "pizza"
+	Python: "Small, medium, or large?"
 	User: "large"
 	Python: "Add a topping: pepperoni, mushrooms, spinach, or say 'done'"
-	User: "mushrooms" Python: "Add a topping: pepperoni, mushrooms, spinach, or say 'done'"
-	User: "spinach" Python: "Add a topping: pepperoni, mushrooms, spinach, or say 'done'"
+	User: "mushrooms"
+	Python: "Add a topping: pepperoni, mushrooms, spinach, or say 'done'"
+	User: "spinach"
+	Python: "Add a topping: pepperoni, mushrooms, spinach, or say 'done'"
 	User: "done"
 	Python: "You ordered a large pizza with mushrooms and spinach. Place another order or say 'done'.
-     	Hello, would you like pizza or salad?"
+	Python: Hello, would you like pizza or salad?"
 	User: "salad"
 	Python: "Would you like a garden salad or greek salad"
 	User: "greek"
