@@ -14,7 +14,7 @@ Do not use Python modules other than those explicitly mentioned. 
 Upload the following file to Courseworks:
 
 	project2.py
- 
+
 A Dialog System for Ordering Pizza
 
 A dialog system (or conversational agent) is a computer program intended to communicate with humans
