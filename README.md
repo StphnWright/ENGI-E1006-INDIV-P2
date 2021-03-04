@@ -37,7 +37,7 @@ Here is an example Dialog: 
 	User: "done"
 	Python: "You ordered a large pizza with mushrooms and spinach. Place another order or say 'done'.
 	
-	Python: Hello, would you like pizza or salad?"
+	Python: "Hello, would you like pizza or salad?"
 	User: "salad"
 	Python: "Would you like a garden salad or greek salad"
 	User: "greek"
@@ -45,7 +45,7 @@ Here is an example Dialog: 
 	User: "blue cheese"
 	Python: "You ordered a large pizza with mushrooms and spinach and a greek salad with blue cheese dressing. Place another order or say 'done'.               
 	
-	Hello, would you like pizza or salad?"
+	Python: "Hello, would you like pizza or salad?"
 	User: "done"
 	
 	Python: "Your order has been placed. Goodbye."
