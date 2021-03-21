@@ -2,9 +2,7 @@
 
 **Take-home project 2**
 
-Due: Friday February 26 11:59pm (Note unusual day)
-
-**Total Points: 100**
+Total Points: 100
 
 You are welcome to discuss the problems with other students but the code you submit for take-home
 projects must be your own work. Please review the academic honesty policy for this course.
