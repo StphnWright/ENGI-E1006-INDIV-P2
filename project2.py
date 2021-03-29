@@ -1,6 +1,5 @@
 """"
 A dialog system for ordering Salad and Pizza.
-
 """
 
 def select_meal():
